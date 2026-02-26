@@ -34,6 +34,8 @@ Suporte ou Redes).
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]((https://www.linkedin.com/in/lucas-martos-7a4b5a235/)))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lucasmartospro@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/dev-martos))
+[![Linkedin](https://img.shields.io/badge/-Lucas%20Martos-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martos-7a4b5a235/)
+
+[![Gmail Badge](https://img.shields.io/badge/-lucasmartospro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucasmartospro@gmail.com)
+
+[![GitHub](https://img.shields.io/github/followers/dev-martos?label=follow&style=social)](https://github.com/dev-martos)
